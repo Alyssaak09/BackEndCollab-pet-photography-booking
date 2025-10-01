@@ -57,6 +57,7 @@ A collaborative web application that allows pet owners to book professional phot
 
 ## Project Structure
 
+```plaintext
 pet-photography-booking/
 ├── Controllers/
 │   ├── OwnerController.cs          ← Elliedd-26
@@ -68,10 +69,10 @@ pet-photography-booking/
 ├── Models/
 │   ├── Owner.cs                    ← Elliedd-26
 │   ├── Pet.cs                      ← Elliedd-26
-│   ├── Notification.cs            ← Elliedd-26
-│   ├── Photographer.cs            ← Alyssaak09
-│   ├── Booking.cs                 ← Alyssaak09
-│   └── Service.cs                 ← Alyssaak09
+│   ├── Notification.cs             ← Elliedd-26
+│   ├── Photographer.cs             ← Alyssaak09
+│   ├── Booking.cs                  ← Alyssaak09
+│   └── Service.cs                  ← Alyssaak09
 ├── Views/
 │   ├── Owner/                      ← Elliedd-26
 │   ├── Pet/                        ← Elliedd-26
@@ -82,6 +83,7 @@ pet-photography-booking/
 ├── Data/
 │   └── ApplicationDbContext.cs
 └── wwwroot/
+
 
 ---
 ## Entity Relationships
