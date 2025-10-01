@@ -12,6 +12,17 @@ A collaborative web application that allows pet owners to book professional phot
 | **Alyssaak09** | Photographer, Booking, Service features   |
 
 ---
+## Project Links
+
+- **GitHub Repository**: [pet-photography-booking](https://github.com/Elliedd-26/pet-photography-booking)
+
+
+### Contributors
+
+- [@Elliedd-26](https://github.com/Elliedd-26)
+- [@Alyssaak09](https://github.com/Alyssaak09)
+
+---
 
 ## Features
 
@@ -101,14 +112,5 @@ pet-photography-booking/
 | Creative Collaboration | August 1, 2025  |
 | Final Documentation    | August 15, 2025 |
 
----
 
-## Project Links
-
-- **GitHub Repository**: [pet-photography-booking](https://github.com/Elliedd-26/pet-photography-booking)
-
-### Contributors
-
-- [@Elliedd-26](https://github.com/Elliedd-26)
-- [@Alyssaak09](https://github.com/Alyssaak09)
 
